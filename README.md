@@ -25,12 +25,13 @@ Générer des rapports exploitables en texte ou CSV
 ✅ Fonctionnalités implémentées
 Login
 
-
 ![Capture d'écran 2025-06-04 181034](https://github.com/user-attachments/assets/d1aab80d-2de6-4434-a6ba-c4869139ebc0)
+
 
 Gestion des produits
 
-CRUD complet 
+![Capture d'écran 2025-06-04 182727](https://github.com/user-attachments/assets/18cbc61a-2503-400d-817a-4022da4d7619)
+
 
 Surveillance des stocks
 
