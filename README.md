@@ -23,6 +23,8 @@ Générer des rapports exploitables en texte ou CSV
 
 Diagrammes de classe
 
+![Diagramme de classe projet1](https://github.com/user-attachments/assets/c56a6e75-fd5d-452b-930e-b81498ca4eb5)
+
 
 
 ✅ Fonctionnalités implémentées
