@@ -21,11 +21,17 @@ Gérer les transactions de manière sûre
 Écrire des tests unitaires robustes avec JUnit 5
 Générer des rapports exploitables en texte ou CSV
 
+Diagrammes de classe
+
+
 
 ✅ Fonctionnalités implémentées
 Login
 
 ![Capture d'écran 2025-06-04 181034](https://github.com/user-attachments/assets/d1aab80d-2de6-4434-a6ba-c4869139ebc0)
+
+Home/Dashbord
+
 
 
 Gestion des produits
