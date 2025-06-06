@@ -19,7 +19,7 @@ Implémenter une application Java modulaire avec accès JDBC
 Appliquer les principes de la POO et l’architecture en couches
 Gérer les transactions de manière sûre
 Écrire des tests unitaires robustes avec JUnit 5
-Générer des rapports exploitables en texte ou CSV
+Générer des rapports exploitables en texte
 
 Diagrammes de classe(Base de donnees)
 
@@ -30,7 +30,7 @@ Architecture utilisée
 ![Capture d'écran 2025-06-06 111328](https://github.com/user-attachments/assets/6bee9a69-ddb0-40ae-a60a-3576063b2772)
 
 
-✅ Fonctionnalités implémentées
+✅ Interfaces implémentées
 Login
 
 ![Capture d'écran 2025-06-04 181034](https://github.com/user-attachments/assets/d1aab80d-2de6-4434-a6ba-c4869139ebc0)
