@@ -27,56 +27,8 @@ Diagrammes de classe(Base de donnees)
 
 Architecture utilisée
 
-[Uploading architecture.txprojet-stock-vente/
-│
-├── src/
-│   ├── model/                 ← Modèles Java liés aux tables (POJOs)
-│   │   ├── Produit.java
-│   │   ├── Stock.java
-│   │   ├── Commande.java
-│   │   ├── ContientCommandeProduit.java
-│   │   └── Facture.java
-│   │
-│   ├── dao/                   ← Accès à la base de données (JDBC)
-│   │   ├── ProduitDAO.java
-│   │   ├── StockDAO.java
-│   │   ├── CommandeDAO.java
-│   │   ├── ContientCommandeProduitDAO.java
-│   │   └── FactureDAO.java
-│   │   └── UtilisateurDAO.java
-│   │	
-│   ├── icon/                   ← Icons pour les interfaces
-│   │
-│   ├── service/               ← Logique métier
-│   │   ├── ProduitService.java
-│   │   ├── StockService.java
-│   │   ├── CommandeService.java
-│   │   └── FactureService.java
-│   │   └── VenteService.java
-│   │   └── ReportingService.java
-│   │   └── UtilisateurService.java
-│   │
-│   ├── ui/                    ← Interface Swing
-│   │   └── CommandeUI.java
-│   │   └── VenteUI.java
-│   │   └── Home.java
-│   │   └── Login.java
-│   │   └── FactureUI.java
-│   │   └── Produit.java
-│   │   └── CommandeUI.java
-│   │
-│   ├── util/                  ← Utilitaires généraux
-│   │   └── DatabaseConnection.java
-│   │   └── TestConnection.java
-│   │
-│   └── test/                  ← Tests unitaires JUnit 5
-│       ├── ProduitServiceTest.java
-│       └── CommandeServiceTest.java
-│       └── StockServiceTest.java
-│       └── VenteServiceTest.java
-│
-└── resources/                 ← Fichiers .txt
-t…]()
+![Capture d'écran 2025-06-06 111328](https://github.com/user-attachments/assets/6bee9a69-ddb0-40ae-a60a-3576063b2772)
+
 
 ✅ Fonctionnalités implémentées
 Login
