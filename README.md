@@ -46,6 +46,7 @@ Gestion des produits
 
 Gestion des commandes
 
+![Capture d'écran 2025-06-11 195926](https://github.com/user-attachments/assets/5f6dcb71-036a-4700-8793-f5c3a84d9561)
 
 Traitement des ventes
 
