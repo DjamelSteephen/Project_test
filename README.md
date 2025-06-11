@@ -86,7 +86,7 @@ Reporting quotidien
 
 🧪 Jeu de données d'exemple
 
-Situés dans tests/, les tests couvrent :
+Situés dans test/, les tests couvrent :
 
 Création de produit
 
@@ -95,6 +95,7 @@ Vérification de stock
 Calculs de totaux
 
 Génération de factures
+
 
 
 👥 Auteurs
