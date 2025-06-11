@@ -25,7 +25,7 @@ Diagrammes de classe(Base de donnees)
 
 ![Diagramme de classe projet1](https://github.com/user-attachments/assets/c56a6e75-fd5d-452b-930e-b81498ca4eb5)
 
-Architecture utilisée
+🏗️ Structure du projet
 
 ![Capture d'écran 2025-06-06 111328](https://github.com/user-attachments/assets/6bee9a69-ddb0-40ae-a60a-3576063b2772)
 
