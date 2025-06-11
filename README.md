@@ -53,7 +53,11 @@ Traitement des ventes
 
 Génération de factures
 
+![Capture d'écran 2025-06-11 091049](https://github.com/user-attachments/assets/5fe6fc3f-d20e-46fa-97c1-0fefcb16f2e2)
 
 Reporting quotidien
+
+![Capture d'écran 2025-06-11 090820](https://github.com/user-attachments/assets/a4918b27-ec49-4800-afc2-7f88ea589779)
+
 
 
