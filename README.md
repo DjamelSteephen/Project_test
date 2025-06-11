@@ -21,6 +21,17 @@ Gérer les transactions de manière sûre
 Écrire des tests unitaires robustes avec JUnit 5
 Générer des rapports exploitables en texte
 
+
+⚙️ Prérequis
+
+| Logiciel       | Version recommandée     |
+|----------------|--------------------------|
+| Java           | 17 ou plus               |
+| PostgreSQL     | 14 ou plus               |
+| Maven (optionnel) | 3.x (si utilisé)      |
+| IDE conseillé  | IntelliJ IDEA / NetBeans / Eclipse |
+
+
 Diagrammes de classe(Base de donnees)
 
 ![Diagramme de classe projet1](https://github.com/user-attachments/assets/c56a6e75-fd5d-452b-930e-b81498ca4eb5)
