@@ -21,6 +21,24 @@ Gérer les transactions de manière sûre
 Écrire des tests unitaires robustes avec JUnit 5
 Générer des rapports exploitables en texte
 
+⚙️ Prérequis
+
+| Logiciel       | Version recommandée     |
+|----------------|--------------------------|
+| Java           | 17 ou plus               |
+| PostgreSQL     | 14 ou plus               |
+| Maven          | 3.x          |
+| IDE            | NetBeans |
+
+💾 Configuration JDBC
+
+Dans le fichier `DatabaseConnection.java` :
+
+```java
+private static final String URL = "jdbc:postgresql://localhost:5432/Gestion_stock";
+private static final String USER = "postgres";
+private static final String PASSWORD = "root";
+
 Diagrammes de classe(Base de donnees)
 
 ![Diagramme de classe projet1](https://github.com/user-attachments/assets/c56a6e75-fd5d-452b-930e-b81498ca4eb5)
