@@ -38,7 +38,7 @@ Login
 
 Home/Dashbord
 
-![Capture d'écran 2025-06-06 105223](https://github.com/user-attachments/assets/236f810d-224b-4236-8662-2346f99ba398)
+![Capture d'écran 2025-06-11 091253](https://github.com/user-attachments/assets/e6201b7a-9a3c-48e4-bf63-471277fb82bc)
 
 Gestion des produits
 
