@@ -36,8 +36,6 @@ Générer des rapports exploitables en texte
 
 💾 Configuration JDBC
 
-Dans le fichier `DatabaseConnection.java` :
-
 private static final String URL = "jdbc:postgresql://localhost:5432/gestion_stock";
 private static final String USER = "postgres";
 private static final String PASSWORD = "root";
