@@ -6,6 +6,7 @@
 
 
 🧾 Informations générales
+
 Nom du projet : Système de gestion des stocks et des ventes
 Technologies utilisées : Java, JDBC, PostgreSQL, JUnit 5
 Architecture : MVC (Model ↔ DAO ↔ Service ↔ UI)
@@ -13,6 +14,7 @@ Type de livrable : Application console + génération de rapports + tests unitai
 
 
 🧠 Objectifs pédagogiques
+
 Ce projet vise à :
 Concevoir un schéma de base de données relationnelle (PostgreSQL)
 Implémenter une application Java modulaire avec accès JDBC
@@ -32,14 +34,25 @@ Générer des rapports exploitables en texte
 | IDE conseillé  | IntelliJ IDEA / NetBeans / Eclipse |
 
 
+💾 Configuration JDBC
+
+Dans le fichier `DatabaseConnection.java` :
+
+private static final String URL = "jdbc:postgresql://localhost:5432/gestion_stock";
+private static final String USER = "postgres";
+private static final String PASSWORD = "root";
+
+
 Diagrammes de classe(Base de donnees)
 
 ![Diagramme de classe projet1](https://github.com/user-attachments/assets/c56a6e75-fd5d-452b-930e-b81498ca4eb5)
 
 
+
 🏗️ Structure du projet
 
 ![Capture d'écran 2025-06-06 111328](https://github.com/user-attachments/assets/6bee9a69-ddb0-40ae-a60a-3576063b2772)
+
 
 
 ✅ Interfaces implémentées
