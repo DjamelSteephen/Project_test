@@ -84,4 +84,21 @@ Reporting quotidien
 ![Capture d'écran 2025-06-11 090820](https://github.com/user-attachments/assets/a4918b27-ec49-4800-afc2-7f88ea589779)
 
 
+🧪 Jeu de données d'exemple
 
+Situés dans tests/, les tests couvrent :
+
+Création de produit
+
+Vérification de stock
+
+Calculs de totaux
+
+Génération de factures
+
+
+👥 Auteurs
+
+POUYA BORIS HECTOR – développeur Java
+
+ZONGO DJAMEL STEEPHEN – développeur Java
