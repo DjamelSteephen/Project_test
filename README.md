@@ -93,6 +93,8 @@ On commence par se connecter avec l'utilisateur(identifiant:steph, password:root
 
 Home/Dashbord
 
+Il s'agit de l'interface pour acceder aux autres interfaces (Commande,Produit,Vente,etc)
+
 ![Capture d'écran 2025-06-11 091253](https://github.com/user-attachments/assets/e6201b7a-9a3c-48e4-bf63-471277fb82bc)
 
 Gestion des produits
@@ -108,18 +110,24 @@ Gestion des commandes
 -Bouton Ajouter panier:permettant de prendre la commande en fournissant le nom du client,selectinner le produit, la quantite voulue
 -Bouton ValiderCommande :permettant de valider la commande ajouter au panier
 
-
 ![Capture d'écran 2025-06-11 195926](https://github.com/user-attachments/assets/5f6dcb71-036a-4700-8793-f5c3a84d9561)
 
 Traitement des ventes
+
+-Bouton Vendre:permettant de valider la vente apres avoir selectionne la ligne de la vente
+-Bouton SupprimerVente: qui permet donc d'annuler la commande et donc restore la quantite en stock des produits
 
 ![Capture d'écran 2025-06-06 105041](https://github.com/user-attachments/assets/292ddf0e-f064-4bcc-a327-05ba8ade3669)
 
 Génération de factures
 
+Pour generer la facture apres vente du produit qui sera stockee dans Ressources (voir Architecture.txt)
+
 ![Capture d'écran 2025-06-11 091049](https://github.com/user-attachments/assets/5fe6fc3f-d20e-46fa-97c1-0fefcb16f2e2)
 
 Reporting quotidien
+
+Pour consulter le rapport des ventes (produits les plus vendus,chiffres d'affaire total,etc)
 
 ![Capture d'écran 2025-06-11 090820](https://github.com/user-attachments/assets/a4918b27-ec49-4800-afc2-7f88ea589779)
 
