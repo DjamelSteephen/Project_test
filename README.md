@@ -13,6 +13,45 @@ Architecture : MVC (Model ↔ DAO ↔ Service ↔ UI)
 Type de livrable : Application console + génération de rapports + tests unitaires
 
 
+🧠 Objectifs pédagogiques
+
+Ce projet a pour ambition de développer une solution complète de gestion de stocks et de ventes, en respectant les bonnes pratiques de développement logiciel :
+
+1-Conception d’un schéma relationnel
+
+---Modélisation d’une base de données PostgreSQL
+
+---Définition des tables, clés primaires/étrangères et contraintes d’intégrité
+
+2-Application Java modulaire
+
+---Accès aux données via JDBC
+
+---Organisation du code en couches : DAO, services, couche métier et interface utilisateur
+
+3-Principes de la Programmation Orientée Objet
+
+---Encapsulation, héritage et polymorphisme
+
+---Classes métier (Produit, Stock, Commande, etc.)
+
+4-Gestion sécurisée des transactions
+
+---Démarrage, validation et rollback
+
+---Garantie de la cohérence des données en cas d’erreur
+
+5-Tests unitaires robustes
+
+---JUnit 5 pour valider chaque méthode critique
+
+---Scénarios de création, lecture, modification et suppression (CRUD)
+
+6-Rapports exploitables
+
+---Génération de factures et de rapports de ventes au format texte
+
+---Sorties claires et formatées pour une utilisation immédiate
 
 
 ⚙️ Prérequis
