@@ -87,6 +87,8 @@ Diagrammes de classe(Base de donnees)
 
 Login
 
+On commence par se connecter avec l'utilisateur(identifiant:steph, password:root)
+
 ![Capture d'écran 2025-06-04 181034](https://github.com/user-attachments/assets/d1aab80d-2de6-4434-a6ba-c4869139ebc0)
 
 Home/Dashbord
@@ -94,6 +96,8 @@ Home/Dashbord
 ![Capture d'écran 2025-06-11 091253](https://github.com/user-attachments/assets/e6201b7a-9a3c-48e4-bf63-471277fb82bc)
 
 Gestion des produits
+
+-Bouton Ajouter panier:permettant d'enregistrer les produits
 
 ![Capture d'écran 2025-06-04 182727](https://github.com/user-attachments/assets/18cbc61a-2503-400d-817a-4022da4d7619)
 
