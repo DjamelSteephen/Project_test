@@ -58,8 +58,8 @@ Ce projet a pour ambition de développer une solution complète de gestion de st
 
 | Logiciel       | Version recommandée     |
 |----------------|--------------------------|
-| Java           | 17 ou plus               |
-| PostgreSQL     | 14 ou plus               |
+| Java           | 17                       |
+| PostgreSQL     | 14                       |
 | Maven (optionnel) | 3.x (si utilisé)      |
 | IDE conseillé  | IntelliJ IDEA / NetBeans / Eclipse |
 
@@ -97,11 +97,17 @@ Home/Dashbord
 
 Gestion des produits
 
--Bouton Ajouter panier:permettant d'enregistrer les produits
+-Bouton Ajouter :permettant d'enregistrer les produits
+-Bouton Modifier :permettant de modifier les produits(meme deja enregistres)
+-Bouton Supprimer :permettant de supprimer les produits
 
 ![Capture d'écran 2025-06-04 182727](https://github.com/user-attachments/assets/18cbc61a-2503-400d-817a-4022da4d7619)
 
 Gestion des commandes
+
+-Bouton Ajouter panier:permettant de prendre la commande en fournissant le nom du client,selectinner le produit, la quantite voulue
+-Bouton ValiderCommande :permettant de valider la commande ajouter au panier
+
 
 ![Capture d'écran 2025-06-11 195926](https://github.com/user-attachments/assets/5f6dcb71-036a-4700-8793-f5c3a84d9561)
 
