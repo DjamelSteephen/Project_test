@@ -7,7 +7,7 @@
 
 🧾 Informations générales
 
-Nom du projet : Système de gestion des stocks et des ventes
+Nom du projet : GestionStockVente
 Technologies utilisées : Java, JDBC, PostgreSQL, JUnit 5
 Architecture : MVC (Model ↔ DAO ↔ Service ↔ UI)
 Type de livrable : Application console + génération de rapports + tests unitaires
@@ -15,13 +15,45 @@ Type de livrable : Application console + génération de rapports + tests unitai
 
 🧠 Objectifs pédagogiques
 
-Ce projet vise à :
-Concevoir un schéma de base de données relationnelle (PostgreSQL)
-Implémenter une application Java modulaire avec accès JDBC
-Appliquer les principes de la POO et l’architecture en couches
-Gérer les transactions de manière sûre
-Écrire des tests unitaires robustes avec JUnit 5
-Générer des rapports exploitables en texte
+🎯 Objectifs
+
+Ce projet a pour ambition de développer une solution complète de gestion de stocks et de ventes, en respectant les bonnes pratiques de développement logiciel :
+
+Conception d’un schéma relationnel
+
+Modélisation d’une base de données PostgreSQL
+
+Définition des tables, clés primaires/étrangères et contraintes d’intégrité
+
+Application Java modulaire
+
+Accès aux données via JDBC
+
+Organisation du code en couches : DAO, services, couche métier et interface utilisateur
+
+Principes de la Programmation Orientée Objet
+
+Encapsulation, héritage et polymorphisme
+
+Classes métier (Produit, Stock, Commande, etc.)
+
+Gestion sécurisée des transactions
+
+Démarrage, validation et rollback
+
+Garantie de la cohérence des données en cas d’erreur
+
+Tests unitaires robustes
+
+JUnit 5 pour valider chaque méthode critique
+
+Scénarios de création, lecture, modification et suppression (CRUD)
+
+Rapports exploitables
+
+Génération de factures et de rapports de ventes au format texte
+
+Sorties claires et formatées pour une utilisation immédiate
 
 
 ⚙️ Prérequis
