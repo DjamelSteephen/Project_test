@@ -15,45 +15,43 @@ Type de livrable : Application console + génération de rapports + tests unitai
 
 🧠 Objectifs pédagogiques
 
-🎯 Objectifs
-
 Ce projet a pour ambition de développer une solution complète de gestion de stocks et de ventes, en respectant les bonnes pratiques de développement logiciel :
 
-Conception d’un schéma relationnel
+1-Conception d’un schéma relationnel
 
-Modélisation d’une base de données PostgreSQL
+---Modélisation d’une base de données PostgreSQL
 
-Définition des tables, clés primaires/étrangères et contraintes d’intégrité
+---Définition des tables, clés primaires/étrangères et contraintes d’intégrité
 
-Application Java modulaire
+2-Application Java modulaire
 
-Accès aux données via JDBC
+---Accès aux données via JDBC
 
-Organisation du code en couches : DAO, services, couche métier et interface utilisateur
+---Organisation du code en couches : DAO, services, couche métier et interface utilisateur
 
-Principes de la Programmation Orientée Objet
+3-Principes de la Programmation Orientée Objet
 
-Encapsulation, héritage et polymorphisme
+---Encapsulation, héritage et polymorphisme
 
-Classes métier (Produit, Stock, Commande, etc.)
+---Classes métier (Produit, Stock, Commande, etc.)
 
-Gestion sécurisée des transactions
+4-Gestion sécurisée des transactions
 
-Démarrage, validation et rollback
+---Démarrage, validation et rollback
 
-Garantie de la cohérence des données en cas d’erreur
+---Garantie de la cohérence des données en cas d’erreur
 
-Tests unitaires robustes
+5-Tests unitaires robustes
 
-JUnit 5 pour valider chaque méthode critique
+---JUnit 5 pour valider chaque méthode critique
 
-Scénarios de création, lecture, modification et suppression (CRUD)
+---Scénarios de création, lecture, modification et suppression (CRUD)
 
-Rapports exploitables
+6-Rapports exploitables
 
-Génération de factures et de rapports de ventes au format texte
+---Génération de factures et de rapports de ventes au format texte
 
-Sorties claires et formatées pour une utilisation immédiate
+---Sorties claires et formatées pour une utilisation immédiate
 
 
 ⚙️ Prérequis
